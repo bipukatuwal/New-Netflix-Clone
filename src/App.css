@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.navbar.colorChange {
+  background-color: #000;
+}
